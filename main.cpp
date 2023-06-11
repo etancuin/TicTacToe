@@ -1,7 +1,7 @@
 //
-//  main.cpp
+// 
 //  TicTacToe
-//  Created by Ethan Quinn on 9/23/22.
+//  9/23/22.
 //  P.S. I left the minimax since it doesn't effect the program unless you choose the hard difficulty ai
 //  but that being said it is not exactly functional
 
